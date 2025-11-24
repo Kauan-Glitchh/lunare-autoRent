@@ -1,0 +1,18 @@
+<Solution>
+  <Folder Name="/1.API/">
+    <Project Path="API/lunare-autoRent.API.csproj" />
+  </Folder>
+  <Folder Name="/2.Domain/">
+    <Project Path="Domain/lunare-autoRent.Domain.csproj" />
+  </Folder>
+  <Folder Name="/3.Application/">
+    <Project Path="Application/lunare-autoRent.Application.csproj" />
+  </Folder>
+  <Folder Name="/4.Infrastructure/">
+    <Project Path="infrastructure/lunare-autoRent.infrastructure.Orm.csproj" />
+  </Folder>
+  <Folder Name="/5.Tests/">
+    <Project Path="Tests.Integration/lunare-autoRent.Tests.Integration.csproj" />
+    <Project Path="Tests.Unit/lunare.autoRent.Tests.Unit.csproj" />
+  </Folder>
+</Solution>
